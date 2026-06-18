@@ -1,4 +1,4 @@
-# Arduino Course
+# Arduino Course Components
 
 Welcome to the Arduino Course repository! This repository contains a varied collection of code files and projects designed for learning and implementing Arduino components
 
